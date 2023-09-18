@@ -65,7 +65,6 @@ Binary Cross-Entropy function is defined as follows:
 
 $$J(\theta) = \frac{1}{m} \sum_{i=1}^m Cost(h_\theta(x_i),y_i)$$
 
-
 $$Cost(h_\theta(x),y) =
 \begin{cases}
   -log(h_\theta(x)) & \text{if }y=1\\    
